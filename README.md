@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayasurya
-- 👀 I’m interested in Full stack,frontend and backend development.
+- 👀 I’m interested in Frontend development.
 - 🌱 I’m currently learning full stack development
 - 📫 How to reach me jayasurya.jdev@gmail.com
 
