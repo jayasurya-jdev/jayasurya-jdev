@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayasurya
 - 👀 I’m interested in Frontend development.
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning ReactJS.
 - 📫 How to reach me jayasurya.jdev@gmail.com
 
 <!---
